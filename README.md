@@ -4,11 +4,6 @@ This script created from python, Helps in managing events by puting them in cale
 ## Files-used
 in, `cleaned_schedule-2a.csv` I have these columns Day, Date, Time, Session, Type, Location.
 
-| Day | Date       | Time    | Session | Type              | Location           |
-|-----|------------|---------|---------|-------------------|--------------------|
-| DAY 1 | 2024-08-28 | Morning | T1      | Technical Training| 3rd Floor CSE LAB |
-| DAY 1 | 2024-08-28 | Morning | T2      | Technical Training.1| Ground Floor CAED LAB |
-| DAY 1 | 2024-08-28 | Morning | T3      | Technical Training.2| Innovation Centre |
 
 | Day   | Date       | Time    | Session | Type                  | Location               |
 |-------|------------|---------|---------|-----------------------|------------------------|
